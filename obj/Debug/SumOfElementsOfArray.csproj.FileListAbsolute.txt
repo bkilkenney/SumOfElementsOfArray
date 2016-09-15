@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfElementsOfArray\SumOfElementsOfArray\bin\Debug\SumOfElementsOfArray.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfElementsOfArray\SumOfElementsOfArray\bin\Debug\SumOfElementsOfArray.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfElementsOfArray\SumOfElementsOfArray\bin\Debug\SumOfElementsOfArray.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfElementsOfArray\SumOfElementsOfArray\obj\Debug\SumOfElementsOfArray.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfElementsOfArray\SumOfElementsOfArray\obj\Debug\SumOfElementsOfArray.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SumOfElementsOfArray\SumOfElementsOfArray\obj\Debug\SumOfElementsOfArray.pdb
