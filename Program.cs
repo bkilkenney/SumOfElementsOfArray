@@ -13,6 +13,7 @@ namespace SumOfElementsOfArray
             int[] exampleArray = { 20, 10, 5, 2 };
             Console.WriteLine("The sum of the example array is " + SumNum(exampleArray));
                                 //How does {0} work?                    //SumNum is the method being applied to ExampleArray
+
             SumNum(exampleArray);  //taking answer from next method and summing it in my array
 
         }
